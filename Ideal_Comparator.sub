@@ -1,0 +1,9 @@
+*Ideal Comparator
+
+.SUBCKT Ideal_Comparator in+ in- pos neg out
+
+E1 out 0 value = {if(V(in+,in-)>0, V(pos) , V(neg))}
+R1 in- in+ 100e6
+R2 neg 0   100e6
+R3 pos 0   100e6
+.end Ideal_Comparator

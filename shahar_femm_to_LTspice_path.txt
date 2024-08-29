@@ -1,0 +1,5 @@
+C:\Users\PEARLLAB1\anaconda3
+
+C:\Users\PEARLLAB1\AppData\Local\Programs\ADI\LTspice\
+
+c:\femm42
