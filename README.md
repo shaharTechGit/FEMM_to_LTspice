@@ -71,7 +71,7 @@ Note: Ensure FEMM and LTspice are already installed on your computer before proc
    It is recommended to run each cell individually to ensure proper functionality without errors. Make necessary adjustments to paths, filenames, and model values as needed.
 
 ## Notebooks
-1. **Comprehensive Notebook**: A detailed notebook containing the complete workflow, functions, and thorough explanations (FEMM_to_LTspice_notebook_v0.ipynb).
+1. **Comprehensive Notebook**: A detailed notebook containing the complete workflow, functions, and thorough explanations (FEMM_to_LTspice_notebook_v0.ipynb). There is also a pdf file of this notebook run.
 2. **Practical Notebook 1st Method**: A streamlined notebook focused on the essential components needed to run the tool efficiently (FEMM_to_LTspice_notebook_v0_practical_1.ipynb).
 3. **Practical Notebook 2nd Method**: A streamlined notebook focused on the essential components needed to run the tool efficiently using an exiting FEMM model (FEMM_to_LTspice_notebook_v0_practical_2.ipynb).
 4. **More**: Additional models were used primarily for demonstrating the tool. Feel free to contact me if you wish access.
