@@ -1,0 +1,3 @@
+set up GUI Anaconda
+
+https://www.youtube.com/watch?v=zhOyzM86bpE
